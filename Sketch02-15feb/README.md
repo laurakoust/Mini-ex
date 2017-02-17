@@ -1,1 +1,0 @@
-![ScreenShot](https://github.com/laurakoust/Mini-ex/blob/gh-pages/Sketch02-15feb/Sk%C3%A6rmbillede%202017-02-17%20kl.%2011.06.45.png)
