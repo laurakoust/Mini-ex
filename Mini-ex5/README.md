@@ -10,7 +10,9 @@ Use the mouse and keys 👍
 #Description#
 My program is kind of a 'lyrics-generator'. It gives one sentence from the chorus of the song "Happy" and one from "Bad day". 
 Put them together and you have a really contradictory song! 
+
 You control the sentences from "Happy" by pressing the mouse and the sentences from "Bad Day" by pressing any key. 
+
 I tried using RiTa to switch out some words, rhyme and stuff but it wouldnt work out.. Therefore I decided not to use 
 the RiTa functions in my program and just implement some different texts. 
 
